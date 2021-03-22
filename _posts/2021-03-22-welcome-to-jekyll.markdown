@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll! TIM"
+title:  "Welcome to Jekyll! TIMMY"
 date:   2021-03-22 00:11:21 -0700
 categories: jekyll update
 ---
